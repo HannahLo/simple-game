@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/platform/mac/cocos2d-prefix.pch \
+  /Users/hannahlo/01Project/simple-game/cocos2d/cocos/base/CCDataVisitor.cpp \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/base/CCRef.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/base/ccConfig.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/platform/mac/CCPlatformDefine-mac.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/deprecated/CCBool.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/base/CCDataVisitor.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/deprecated/CCInteger.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/base/CCConsole.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/base/ccMacros.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/platform/CCStdC.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/platform/mac/CCStdC-mac.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/base/ccRandom.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/platform/CCCommon.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/deprecated/CCFloat.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/deprecated/CCDouble.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/deprecated/CCString.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/deprecated/CCArray.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/base/ccCArray.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/base/ccUTF8.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/deprecated/CCDictionary.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/base/uthash.h \
+  /Users/hannahlo/01Project/simple-game/cocos2d/build/../cocos/deprecated/CCSet.h
